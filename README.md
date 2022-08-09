@@ -1,8 +1,11 @@
-# work2
+# Workshop 2
+# Thiraphat Sangchai 62400111015
 
 A new Flutter project.
 
 ## Getting Started
+
+<img src="assets/screenshot.jpg.jpg" width="300" height="400">
 
 This project is a starting point for a Flutter application.
 
